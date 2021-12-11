@@ -1,4 +1,4 @@
-#Sprint3
+# Sprint3
 
 * Crear 3 Fragments y desarrollar sus layouts (Uno de los Fragments debe ser el de Home de sus App), los layouts deben contar con los siguientes elementos:
 
