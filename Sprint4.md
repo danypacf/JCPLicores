@@ -1,4 +1,4 @@
-#Sprint4
+# Sprint4
 
 * Conectar layouts con navigation (nav_graph)
 * Crear un menú que permita la navegación entre layouts (Guía 12-13-14).
