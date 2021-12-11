@@ -1,4 +1,4 @@
-#Sprint2
+# Sprint2
 
   * Diseñar el icono de su APP móvil.
   * Crear el proyecto en Android Studio (Plantilla Base, Lenguaje de programación Kotlin, Versión de Android mínima API 21).
